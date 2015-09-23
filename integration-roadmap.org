@@ -31,32 +31,32 @@ Remote Sensing, Geotechnical Engineering Lab and Molecular
 Interactions
 
 
-* TODO 
+* Tasks to do 
 
-1) Data Structures lab :: Khushpreet 
+** Data Structures lab :: Khushpreet 
 
 -  Explain work flow to RA's, coordinate with them and review their
    work on timely basis.
 
-2) Physical chemistry lab :: Sravanthi
+** Physical chemistry lab :: Sravanthi
 
 - Need to setup environment for Java 3D and get the source code for 2
   experiments.
 
 - Write test cases for each experiment.
 
-3) Pattern Recognition:: Sadhana
+** Pattern Recognition:: Sadhana
 
 - Need to get the source code for 8 experiments.
 
 - Write test cases for each experiment.
 
 
-4) Automation Script :: Khushpreet
+** Automation Script :: Khushpreet
 
 - Coordinate with Siddharth and review his work.
 
-5) Computer Programming Lab :: Khushpreet 
+** Computer Programming Lab :: Khushpreet 
 
 - Resolve issue of 10th experiment (Expression Evaluation) and host it
   with new src code.
