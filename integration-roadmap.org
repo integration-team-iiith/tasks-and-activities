@@ -2,38 +2,36 @@
 #+Author: Integration Team
 #+Date:   <2015-09-23 Wednesday>
 
-* Roadmap for Integration Team for two weeks
+* Current Status: 
 
-** Current Status: 
-
-*** For First set of labs
-**** Sources available for 16 labs 
+** For First set of labs
+*** Sources available for 16 labs 
 Linux lab is at L4, rest of the labs are at L6.
 
-**** Sources partially available for 2 labs 
+*** Sources partially available for 2 labs 
 Data Structures and Physical Chemistry
 
-**** Sources not available for 2 labs 
+*** Sources not available for 2 labs 
 Pattern Recognition and EM Theory
 
 
-*** For second set of labs
-**** Sources available for 7 labs 
+** For second set of labs
+*** Sources available for 7 labs 
 Molecular Absorption Spectroscopy, Computational Linguistics,
 Structural Dynamics, Soil Mechanics and Foundation Engineering,
 Molecular Florescence Spectroscopy, Analog CMOs VLSI Circuit Design
 and Principles of Programming Languages.
 
-**** Sources partially available for 3 labs 
+*** Sources partially available for 3 labs 
 Circular Dichronism Spectroscopy, Speech Signal Processing and Colloid and Surface Chemistry
 
-**** Sources not available for 6 labs 
+*** Sources not available for 6 labs 
 Physical Science Lab, Mobile Robotics, Quantum Chemistry, Optical
 Remote Sensing, Geotechnical Engineering Lab and Molecular
 Interactions
 
 
-** TODO 
+* TODO 
 
 1) Data Structures lab :: Khushpreet 
 
