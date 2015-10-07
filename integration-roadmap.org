@@ -45,13 +45,15 @@ Interactions
 
 - Write test cases for each experiment.
 
-- Partially Done
+ Partially Done
 
 ** Pattern Recognition:: Sadhana
 
 - Need to get the source code for 8 experiments.
 
 - Write test cases for each experiment.
+
+Done
 
 ** Automation Script :: Khushpreet
 
